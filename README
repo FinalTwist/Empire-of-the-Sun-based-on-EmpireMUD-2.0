@@ -1,3 +1,8 @@
+over 1300 rooms added, flavor, dynamic companions, simulated trading, level and class requirement 
+re-do, modifying the mud to make it more solo friendly.
+
+Original EmpireMUD landing page information (applies to this codebase):
+
 EmpireMUD 2.0 beta 6 is coming in 2024! In the mean time, if you want to run
 an EmpireMUD server, consider using the beta-dev branch rather than the
 master. This branch has many updates to its features, code, and content.
